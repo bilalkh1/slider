@@ -1,0 +1,426 @@
+.swiper-slide {
+    display:flex;
+    justify-content:center;
+}
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ {<img style="border:10px solid white"
+     
+ }
+
+.swiper-container {
+  height: 630px;
+}
+
+.swiper-slide {
+  overflow: hidden;
+}
+
+.swiper-slide img {
+  height: 100%;
+}
+
+.swiper-button {
+  z-index: 1;
+}
+
+.swiper-holder {
+  position: relative;
+}
+
+.swiper-button__left {
+  right: 100%;
+  left: unset;
+  margin-right: 4px;
+}
+
+.swiper-button__right {
+  left: 100%;
+  right: unset;
+  margin-left: 4px;
+}
+
+.title {
+  color: #ffd700;
+  font-size: 32px;
+}
+
+.subtitle {
+  color: #ffd700;
+  font-size: 24px;
+}
+
+.nav-holder {
+  display: flex;
+  justify-content: center;
+  margin-top: 20px;
+}
+
+.logo {
+  margin: 20px auto;
+}
+
+.navbar-nav > li > a {
+  padding: 20px;
+}
+
+.dropdown-menu > li > a {
+  padding: 20px;
+}
+/*   This is where old code should begin */
+.text-white {
+    color: white;
+}
+
+.btn-danger {
+    background-color: #BD1C14; 
+
+.col-centered {
+    float: none;
+    margin: 0 auto;
+}
+
+.navbar-inverse {
+    background-color: white;
+    border: 0px;
+}
+
+.navigation-menu {
+    border-color: #101010;
+   background: #3C7DBB;
+     
+
+}
+
+.navbar-inverse > .top-menu {
+    background:url("../images/header_background3.png") no-repeat;
+    height: 350px !important;
+  
+}
+
+.navbar-inverse .navbar-collapse.bg-white .navbar-nav > li > a {
+    color: #C4231C;
+}
+
+.navbar-inverse .navbar-nav > li > a {
+    color: white;
+     
+}
+
+.navbar-inverse .navbar-nav > .open > a, .navbar-inverse .navbar-nav > .open > a:focus, .navbar-inverse .navbar-nav > .open > a:hover {
+    color: #fff;
+    background-color:#3570A8;
+}
+
+.dropdown-menu > li > a:focus, .dropdown-menu > li > a:hover {
+    color: white;
+    text-decoration: none;
+    background-color:black;
+    <!--background-color: #BD1C14;-->
+}
+
+.video {
+    margin-top: 10px;
+}
+
+.video iframe {
+    border: 5px solid #BD1C14;
+    margin-top: 30px;
+}
+
+.video img {
+    margin: 0 auto;
+    display: block;
+}
+
+footer {
+    margin-top: 120px;
+}
+
+
+.navbar-collapse .donate p {
+    padding: 5px;
+    background: rgba(0,0,0, 0.4);
+    border-radius: 5px;
+    border-top-left-radius: 0px;
+    border-top-right-radius: 0px;
+    font-size: 25px;
+    margin-bottom: 0px;
+}
+
+.top-menu .navbar-btn {
+background-color:black;
+
+    margin: 0;
+}
+
+.top-menu img.header-image {
+    position: absolute;
+}
+
+.owl-item .item h3 {
+    position: absolute;
+    bottom: 0px;
+    z-index: 222;
+    color: white;
+    text-align: center;
+    width: 100%;
+    background: rgba(0,0,0,0.6);
+    padding: 7px;
+    margin-bottom: 0px;
+}
+
+p  {
+    color: black;
+    font-family: helvetica;
+    font-size: 1.1em;
+}
+
+.header-image{
+    height: 350px !important;
+    margin-left: 55%;
+}
+
+
+.medium-margin{
+    height: 350px !important;
+    margin-left: 45%;
+}
+.small-margin{
+    height: 350px !important;
+    margin-left: 25%;
+}
+.row-container{
+    padding: 10px;
+}
+.row-container img{
+    width: 100%;
+    height: auto;
+    margin: auto;
+    margin-top: 0px;
+}
+.row-container .row-content{
+    margin-top: -10px;
+    padding: 20px;
+    background-color: #E1E0E0;
+    border-radius: 10px;
+}
+.row-container h2{
+    text-align: center;
+    background-color: #3C7DBB;
+    color: white;
+    margin-bottom: 0px;
+    padding: 0.2em 0.4em;
+    border-radius: 3px;
+
+}
+.video-container{
+    padding: 20px;
+    margin: 0px;
+}
+.video-container h3{
+    text-align: center;
+    margin: 5px;
+    background-color: #244B70;
+    color: white;
+}
+.video-container div p{
+    margin-top: 30px; 
+    
+}
+.book{
+    margin: 0px;
+    padding: 20px;
+
+}
+.book h3{
+    text-align: center;
+    margin: 5px;
+    margin-bottom: 10px;
+    background-color: #244B70;
+
+    color: white;
+}
+.book div img{
+    height: auto;
+    width: 250px;
+    margin-top: 10px;
+}
+.book div p{
+    margin-top: 30px; 
+    
+}
+.columns-container{
+    margin-top: 30px;
+}
+.redirection-link{
+    text-decoration: none;
+    background-color: #3C7DBB;
+    color: #ffffff;
+    padding: 10px;
+    width: 200px;
+    margin: 20px auto;
+    border-radius: 10px;
+    text-align: center;
+}
+.redirection-link a{
+    text-decoration: none;
+    color: #ffffff;
+}
+
+.medium-margin{
+    height: 350px !important;
+    margin-left: 45%;
+}
+
+
+.medium35-margin{
+    height: 350px !important;
+    margin-left: 35%;
+}
+
+
+
+
+.small-margin{
+    height: 350px !important;
+    margin-left: 25%;
+}
+
+.small15-margin{
+    height: 350px !important;
+    margin-left: 15%;
+}
+
+/* CSS by Parag chaure */
+.header-image {
+    margin-left: auto;
+}
+.error{color: #f00;}
+.petition-banner {
+    position: relative;
+}
+.petition-to {
+    position: absolute;
+    bottom: 51px;
+    background: rgba(256,256,256, 0.5);
+    display: block;
+    width: 100%;
+    padding: 10px 30px;
+    color: #000;
+    border-top: 1px solid #fff;
+    border-bottom: 1px solid #fff;
+}
+.petition-details{
+    padding: 10px 0;
+    margin-top: 20px;
+}
+.petition-btn{
+    padding:10px 0;
+    margin: 20px 0;
+}
+.petition-btn .btn {
+    width: 100%;
+    /*padding: 20px;*/
+    font-size: 26px;
+}
+.tell-a-friend{
+    border: 1px solid #ccc;
+    border-radius: 10px;
+}
+.tell-a-friend blockquote{
+    margin: 0px;
+    border-left: 7px solid #00b8ff;
+    border-right: 7px solid #00b8ff;
+    border-radius: 10px;
+}
+.to-friend-title {
+    font-size: 26px;
+    font-weight: 600;
+    padding: 30px 0px 10px 10px;
+    border-top: 1px solid #6ad5ff;
+}
+.petition-to h2 {
+    font-weight: 600;
+    text-transform: capitalize;
+    font-size: 26px;
+    color: #ffffff;
+}
+.petition-to h3{
+    font-size:20px;
+}
+
+footer{
+    background: #111;
+    padding:10px;
+}
+.petition-to h3 {
+    color: #ffffff;
+    font-weight: 100;
+    font-size: 22px;
+    border-bottom: 1px solid rgba(256,256,256, 0.5);
+    padding-bottom: 5px;
+}
+.petition-to h3 svg {
+    color: #cfcfcf;
+}
+
+#loading {background: none repeat scroll 0 0 rgba(255, 255, 255, 0.698);color: #000;font-size: 16px;height: 100%;left: 0;padding: 0 34%;position: fixed;top: 0;width: 100%;z-index: 9999;}
+#loading > .center{margin-top: 250px;}
+#make-donation .btn svg.fa-check, 
+.sponcers .btn svg.fa-check {                
+    opacity: 0;             
+}
+#make-donation .btn.active svg.fa-check,
+.sponcers .btn.active svg.fa-check
+{             
+    opacity: 1;             
+}
+.input-group{
+    margin-top: 20px;
+    padding-right:15px; 
+}
+.sponsors{
+    font-size: 20px;
+    font-weight: 600;
+}
+.frm-box{
+    border: 1px solid #EDEDED;
+    padding-top: 10px;
+}
+.petition-box{
+    border:1px solid #f2f2f2;
+    border-radius: 5px;
+    margin-top:10px;
+}
+.petition-image {
+    max-height: 300px;
+    overflow-y: hidden;
+    min-height: 150px;
+}
+.petition-title, .petition-desc, .petition-link{
+    padding: 5px 10px;
+}
+.petition-title h2{
+    margin-top : 5px;
+    font-size: 20px;
+    font-weight: 600;
+}
+.petition-link{
+    border-top: 1px solid #e6e6e6;
+    padding: 10px;
+}
+
+.btn-red {
+    background: #fe0100;
+    color: #fff;
+}
